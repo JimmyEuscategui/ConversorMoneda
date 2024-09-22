@@ -72,7 +72,7 @@ Una vez que ejecutes la aplicación, sigue las instrucciones proporcionadas en l
 
 ## 🧑‍💻 Autor
 
-- **Tu Nombre** – [@JimmyEuscategui](https://github.com/JimmyEuscategui)
+- **[@JimmyEuscategui](https://github.com/JimmyEuscategui)** 
 
 ## 📝 Licencia
 
